@@ -1,0 +1,13 @@
+{
+  "name": "devonapp",
+  "version": "1.0.0",
+  "description": "Devon's playground app to test out Next and Bulma",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC"
+}
